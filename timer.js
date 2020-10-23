@@ -147,7 +147,7 @@ var liveCodeTimer = {
     }   
   },
   playSound: function() {
-    var mp3 = "/audio/one_bell.mp3";
+    var mp3 = "/audio/EMERGENCY.mp3";
     var audio = new Audio(mp3);
     audio.play();    
   },
