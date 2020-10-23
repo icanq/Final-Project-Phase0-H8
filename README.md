@@ -12,3 +12,5 @@ call for a help tanya sm temen
 6. bikin gambar buat background yang ok biasa aja ga norak
 7. cari font yang sesuai
 hadeh ini gimana belom ngerti flexbox
+
+https://medium.com/better-programming/understanding-the-this-keyword-in-javascript-cb76d4c7c5e8
